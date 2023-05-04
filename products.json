@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Razer Deathadder Essential",
+            "price": "119.99",
+            "color": "preto",
+            "wireless": false
+        },
+        {
+            "id": 1,
+            "name": "Logitech G PRO X Superlight",
+            "price": "799.99",
+            "color": "branco",
+            "wireless": true
+        },
+        {
+            "id": 2,
+            "name": "Zowie S2",
+            "price": "449.99",
+            "color": "preto",
+            "wireless": false
+        },
+        {
+            "id": 3,
+            "name": "Razer Viper Ultimate",
+            "price": "519.99",
+            "color": "preto",
+            "wireless": true
+        },
+        {
+            "id": 4,
+            "name": "Logitech G703",
+            "price": "420.99",
+            "color": "preto",
+            "wireless": true
+        }
+    ]
+}
